@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 Soy el fichero 3 local
+=======
+Soy el fichero 3 remoto
+>>>>>>> 8796d64a1e50a4e89ae60eec95c3191229ecd28c
+Soy el fichero 3 una mezcla del local y el remoto
+
